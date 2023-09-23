@@ -8,7 +8,7 @@ All files mentioned are included in the project folder.
 ## To learn how to use this app, check "how_to_use_app_fyp" file
 
 
-
+![alt text](https://github.com/theayazdevs/finalyearprojectuni/blob/main/img1.png?raw=true)
 
 
 

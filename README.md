@@ -6,7 +6,7 @@ An advanced feature, that is the use of speech recogntion technology to recogniz
 ![alt text](https://github.com/theayazdevs/finalyearprojectuni/blob/main/img1.png?raw=true)
 ![alt text](https://github.com/theayazdevs/finalyearprojectuni/blob/main/img2.png?raw=true)
 ![alt text](https://github.com/theayazdevs/finalyearprojectuni/blob/main/img3.png?raw=true)
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
+
 All files mentioned are included in the project folder.
 ## To setup the development environment or for testing files execution, check the file "READ_ME_fyp"
 ## Also check the file read_me_fyp
